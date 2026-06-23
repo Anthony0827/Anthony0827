@@ -1,13 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Aprendo+construyendo;Enfocado+en+Python+y+el+desarrollo;Desarrollo+de+Aplicaciones+Web;Con+base+en+Sistemas+y+Redes)](https://github.com/Anthony0827)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Aprendo+construyendo;Desarrollo+de+Aplicaciones+Web;Enfocado+en+Python+y+el+desarrollo;Con+base+en+Sistemas+y+Redes)](https://github.com/Anthony0827)
 
 </div>
 
 ## Sobre mí
 
-- **Desarrollador** con un **curso de especialización en Python** orientado a datos
-- Formado en **Desarrollo de Aplicaciones Web (DAW)**
+- **Desarrollador** formado en **Desarrollo de Aplicaciones Web (DAW)**
+- Con un **curso de especialización en Python** orientado a datos
 - Me gusta automatizar tareas y trabajar con herramientas modernas de desarrollo, revisando siempre los resultados con criterio propio
 - **Técnico de Grado Medio en Sistemas Microinformáticos y Redes (SMR)**
 - Desde España
