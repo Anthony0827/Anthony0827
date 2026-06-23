@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Construyo%2C+rompo+y+vuelvo+a+construir;Enfocado+en+Python+y+el+desarrollo;Desarrollo+de+Aplicaciones+Web;Con+base+en+Sistemas+y+Redes)](https://github.com/Anthony0827)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Construyo+soluciones+con+c%C3%B3digo;Enfocado+en+Python+y+el+desarrollo;Desarrollo+de+Aplicaciones+Web;Con+base+en+Sistemas+y+Redes)](https://github.com/Anthony0827)
 
 </div>
 
@@ -9,7 +9,7 @@
 - **Desarrollador** con un **curso de especialización en Python** orientado a datos
 - Formado en **Desarrollo de Aplicaciones Web (DAW)**
 - Me gusta automatizar tareas y trabajar con herramientas modernas de desarrollo, revisando siempre los resultados con criterio propio
-- Con base sólida en **Sistemas Microinformáticos y Redes (SMR)**
+- **Técnico de Grado Medio en Sistemas Microinformáticos y Redes (SMR)**
 - Desde España
 - Contacto: **anthonyramoss0827@gmail.com**
 
@@ -30,37 +30,6 @@
 
 </p>
 
-## Estadísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anthony0827&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_border=true" />
-<img height="170em" src="https://streak-stats.demolab.com/?user=Anthony0827&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony0827&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-## Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anthony0827&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
-## Trofeos
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anthony0827&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
 ## Gráfico de contribuciones
 
 <div align="center">
@@ -68,7 +37,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anthony0827/Anthony0827/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anthony0827/Anthony0827/output/github-snake.svg" />
-  <img alt="Serpiente comiendo mis contribuciones" src="https://raw.githubusercontent.com/Anthony0827/Anthony0827/output/github-snake.svg" />
+  <img alt="Serpiente recorriendo mi gráfico de contribuciones" src="https://raw.githubusercontent.com/Anthony0827/Anthony0827/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -79,11 +48,5 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonyramoss0827@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyrdl08/)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Anthony0827&color=58A6FF&style=flat-square&label=Visitas+al+perfil)
 
 </div>
