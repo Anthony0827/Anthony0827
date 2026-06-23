@@ -1,15 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Bienvenido+a+mi+perfil;Sistemas+y+Redes+%7C+Desarrollo+Web;Especializado+en+Python;Desarrollo+asistido+por+IA)](https://github.com/Anthony0827)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Construyo%2C+rompo+y+vuelvo+a+construir;Enfocado+en+Python+y+el+desarrollo;Desarrollo+de+Aplicaciones+Web;Con+base+en+Sistemas+y+Redes)](https://github.com/Anthony0827)
 
 </div>
 
 ## Sobre mí
 
-- Técnico en **Sistemas Microinformáticos y Redes (SMR)** y en **Desarrollo de Aplicaciones Web (DAW)**
-- Con un **curso de especialización en Python** (datos / IA)
-- Mi camino: de las **redes y los sistemas** al **desarrollo**, y ahora centrado en **Python**
-- Integro **herramientas de IA (CLIs y agentes)** en mi flujo de trabajo, siempre aplicando criterio y revisión propia sobre los resultados
+- **Desarrollador** con un **curso de especialización en Python** orientado a datos
+- Formado en **Desarrollo de Aplicaciones Web (DAW)**
+- Me gusta automatizar tareas y trabajar con herramientas modernas de desarrollo, revisando siempre los resultados con criterio propio
+- Con base sólida en **Sistemas Microinformáticos y Redes (SMR)**
 - Desde España
 - Contacto: **anthonyramoss0827@gmail.com**
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anthony0827&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anthony0827&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_border=true" />
 <img height="170em" src="https://streak-stats.demolab.com/?user=Anthony0827&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -78,7 +78,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonyramoss0827@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyrdl08/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyrdl08/)
 
 </div>
 
