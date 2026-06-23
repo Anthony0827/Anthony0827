@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Construyo+soluciones+con+c%C3%B3digo;Enfocado+en+Python+y+el+desarrollo;Desarrollo+de+Aplicaciones+Web;Con+base+en+Sistemas+y+Redes)](https://github.com/Anthony0827)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Aprendo+construyendo;Enfocado+en+Python+y+el+desarrollo;Desarrollo+de+Aplicaciones+Web;Con+base+en+Sistemas+y+Redes)](https://github.com/Anthony0827)
 
 </div>
 
@@ -29,6 +29,22 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </p>
+
+## Lenguajes que más uso
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony0827&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+## Mi actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anthony0827&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
 
 ## Gráfico de contribuciones
 
