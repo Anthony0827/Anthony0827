@@ -13,14 +13,6 @@
 - Desde España
 - Contacto: **anthonyramoss0827@gmail.com**
 
-## Portfolio
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Visitar%20Portfolio-58A6FF?style=for-the-badge)](https://anthonyramos.duckdns.org/)
-
-</div>
-
 ## Tecnologías y herramientas
 
 <p align="left">
@@ -77,6 +69,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anthonyramos.duckdns.org/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonyramoss0827@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyrdl08/)
 
