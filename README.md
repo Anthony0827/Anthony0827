@@ -35,7 +35,7 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Anthony0827&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anthony0827&theme=tokyonight"
   alt="Lenguajes más usados"
 />
 
@@ -47,8 +47,8 @@
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Anthony0827&theme=tokyo-night&hide_border=true&area=true"
-  alt="Gráfico de actividad"
   width="95%"
+  alt="Gráfico de actividad"
 />
 
 </div>
